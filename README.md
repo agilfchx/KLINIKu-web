@@ -12,7 +12,7 @@ Sebuah website sederhana yang dimana kita bisa membuat janji dengan dokter gigi.
 ## Installation
 Clone or download this repository
 ```shell
-$ git clone https://github.com/Zzzul/for-um.git
+$ git clone https://github.com/agilfchx/KLINIKu
 ```
 
 Install all dependencies
