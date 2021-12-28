@@ -5,9 +5,6 @@ Sebuah website sederhana yang dimana kita bisa membuat janji dengan dokter gigi.
 - Laravel 8.0
 - Laravel Jetstream & Livewire
 - Bootstrap 4.5
-- Mai & Bootstrap Icon
-- Owl Carousel v2.3.4
-- Maicons
 
 ## Installation
 Clone or download this repository
