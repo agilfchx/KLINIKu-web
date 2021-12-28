@@ -31,6 +31,3 @@ $ php artisan migrate:fresh
 ```
 ## Guest Template
 - by [MACode.ID](https://macodeid.com/projects/one-health-medical-center-html5-template/)
-
-## License
-MIT
