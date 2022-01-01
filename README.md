@@ -23,11 +23,11 @@ $ composer install
 
 Generate app key, configure `.env` file and do migration.
 ```shell
-# generate app key
-$ php artisan key:generate
-
 # create copy of .env
 $ cp .env.example .env
+
+# generate app key
+$ php artisan key:generate
 
 # migration
 $ php artisan migrate:fresh
