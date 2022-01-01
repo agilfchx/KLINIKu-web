@@ -6,6 +6,9 @@ Sebuah website sederhana yang dimana kita bisa membuat janji dengan dokter gigi.
 - Laravel Jetstream & Livewire
 - Bootstrap 4.5
 
+## Demo
+[KLINIKu]klinikudental.herokuapp.com/
+
 ## Installation
 Clone or download this repository
 ```shell
