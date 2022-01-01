@@ -7,7 +7,7 @@ Sebuah website sederhana yang dimana kita bisa membuat janji dengan dokter gigi.
 - Bootstrap 4.5
 
 ## Demo
-[KLINIKu]klinikudental.herokuapp.com/
+[KLINIKu](klinikudental.herokuapp.com)
 
 ## Installation
 Clone or download this repository
