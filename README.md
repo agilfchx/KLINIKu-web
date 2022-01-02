@@ -8,6 +8,10 @@ Sebuah website sederhana yang dimana kita bisa membuat janji dengan dokter gigi.
 
 ## Demo
 [KLINIKu](http://klinikudental.herokuapp.com/)
+/login -> untuk masuk login page
+/admin-dashboard -> untuk masuk admin dashboard
+
+``admin@email.com | password`` 
 
 ## Installation
 Clone or download this repository
